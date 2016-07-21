@@ -16,7 +16,7 @@
 | environments.
 |
 */
-$config['base_url'] = '';
+$config['base_url'] = 'http://ec2-52-38-192-254.us-west-2.compute.amazonaws.com/';
 
 /*
 |--------------------------------------------------------------------------
